@@ -22,3 +22,6 @@ Technologies used:
 - Twilio
 
 ---
+Libraries
+===
+- Twilio Python - https://github.com/twilio/twilio-python
