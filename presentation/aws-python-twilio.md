@@ -13,6 +13,19 @@ Guidelines
 - Don't know a lot about Python - hopefully will want to learn more :)
 
 ---
+Inspiration: Call Me In 5
+===
+
+- Quit asking friends to interrupt dates and meetings. 
+- Feel important
+- Get interrupted by just telling `Call Me In 5` to call you in 5 mins (or whatever)
+
+---
+Try it out!
+===
+## Text **"Hey"** to **317-854-0143**
+
+---
 Technologies used:
 ===
 
@@ -158,26 +171,12 @@ End Results
 
 You are ready to test!
 ===
-Text **"Start"** to **317-827-7668** (or your Twilio number)
-
-
----
-Inspiration: Call Me In 5
-===
-
-- Quit asking friends to interrupt dates and meetings. 
-- Feel important
-- Get interrupted by just telling `Call Me In 5` to call you in 5 mins (or whatever)
-
----
-Try it out!
-===
-Text **"Hey"** to **317-854-0143**
+## Text **"Start"** to **317-827-7668**
 
 ---
 Connect
 ===
-- GitHub: github.com/darye
+- github: github.com/darye
 - email: dhenry@developertown.com
 - twitter: @darye
 
